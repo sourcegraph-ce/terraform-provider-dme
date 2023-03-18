@@ -1,7 +1,7 @@
 package dme
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"reflect"
 	"sort"
 
