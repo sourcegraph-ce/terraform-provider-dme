@@ -2,7 +2,7 @@ package dme
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"testing"
 
 	"github.com/DNSMadeEasy/dme-go-client/client"

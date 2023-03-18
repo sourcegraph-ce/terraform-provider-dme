@@ -1,6 +1,6 @@
 package models
 
-import "log"
+import log "github.com/sourcegraph-ce/logrus"
 
 type ACLAttribute struct {
 	Name string   `json:"name,omitempty"`

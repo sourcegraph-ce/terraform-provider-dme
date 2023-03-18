@@ -2,7 +2,7 @@ package dme
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 
 	"github.com/DNSMadeEasy/dme-go-client/client"
 	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"

@@ -1,7 +1,7 @@
 package dme
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 
 	"github.com/DNSMadeEasy/dme-go-client/client"
 	"github.com/DNSMadeEasy/dme-go-client/models"
