@@ -8,7 +8,7 @@ import (
 	"encoding/hex"
 	"fmt"
 	"io/ioutil"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"net/http"
 	"net/url"
 	"time"
